@@ -1,0 +1,12 @@
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/Config/AppConfig.java
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/Config/OpenApiConfig.java
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/Config/SecurityConfig.java
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/Controller/UserController.java
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/DTO/UserResponse.java
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/Entity/User.java
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/Exception/ErrorRepsonse.java
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/Exception/GlobalExceptionHandler.java
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/Exception/ResourceNotFoundException.java
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/Repository/UserRepository.java
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/Service/UserService.java
+/Users/phanindra/IdeaProjects/Revision/Development/SpringProjects/UserAPI/Backend/src/main/java/com/practice/userapi/UserApiApplication.java

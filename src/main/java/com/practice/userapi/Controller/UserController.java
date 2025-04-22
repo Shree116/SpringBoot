@@ -32,6 +32,8 @@ public class UserController {
 
     @GetMapping("/search")
     public List<User> searchUsers(@RequestParam @NotBlank(message = "Query parameter cannot be blank") String query) {
+        System.out.println("Testing purpose");
+
        return userService.searchUsers(query);
     }
 
